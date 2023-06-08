@@ -28,6 +28,6 @@ Phương pháp Canny gồm 4 bước:
 <img src="./Image/output.png">
 
 #### 3.2 So sánh với Canny function trên OpenCV
-kết quả thu được cho đường biên mỏng hơn so với Canny function của OpenCV. Tuy nhiên việc sử lý các đường biên ngắn vẫn chưa thực sự tốt và tính liên tục vẫn còn kém hơn một chút so với Canny function.
+Kết quả thu được cho đường biên mỏng hơn so với Canny function của OpenCV. Tuy nhiên việc sử lý các đường biên ngắn vẫn chưa thực sự tốt và tính liên tục vẫn còn kém hơn một chút so với Canny function.
 
  <img src="./Image/compere.png">
